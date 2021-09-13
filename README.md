@@ -1,6 +1,8 @@
 # GNSS Based Context Detection
 
-The database used for the paper "GNSS-based environmental context detection for navigation" Florent FERIOL, Damien VIVET and Yoko WATANABE.
+The database used for the paper 
+"GNSS-based environmental context detection for navigation" Florent FERIOL, Damien VIVET and Yoko WATANABE.
+
 Authors are with ISAE-SUPAERO, Université de Toulouse and ONERA
 
 
